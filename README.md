@@ -2,7 +2,7 @@
 # ProfitByte - Crypto News and Data Website
 
 
-Welcome to ProfitByte, your go-to destination for cryptocurrency news, data, and insights. ProfitByte is designed to help you stay informed about the latest developments in the cryptocurrency market and make informed investment decisions. This web application leverages the Newscatcher API to provide users with up-to-date information on cryptocurrencies, including news articles and real-time data. Additionally, the website features user login functionality and utilizes ads to ensure its sustainability.
+Welcome to ProfitByte, your go-to destination for cryptocurrency news, data, and insights. ProfitByte is designed to help you stay informed about the latest developments in the cryptocurrency market and make informed investment decisions. This web application leverages the Newscatcher API ([Visit NewsCatcher HERE!]( https://newscatcherapi.com/))to provide users with up-to-date information on cryptocurrencies, including news articles and real-time data. Additionally, the website features user login functionality and utilizes ads to ensure its sustainability.
 
 ## Table of Contents
 
